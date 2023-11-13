@@ -1,0 +1,6 @@
+ouro,10.0,2.0
+diamante,15.0,5.0
+pepita,2.0,0.2
+bronze,4.0,2.0
+titanio,5.0,2.0
+metal,4.0,4.0
